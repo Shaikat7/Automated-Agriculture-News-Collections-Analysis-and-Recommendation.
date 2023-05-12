@@ -12,7 +12,7 @@ In this project, we collect news articles from various news sites and classify a
 ## To Run this project following things need to do:
 
 1. This program runs in **Ubuntu**.
-2. First of all database need to create. All the queries to create the database are given in **Queries** folder.
+2. First of all database need to create. For database we have used My SQL. All the queries to create the database are given in **Queries** folder.
 3. Make one new folder and download all files & folders given here. Keep all the files & folders in that folder. In this place create a folder with name - **Saved Models** and put all the save models in this folder. This should be done properly to keep the path same.
 4. Need to download all the **Saved models**. Link is given here-
 
