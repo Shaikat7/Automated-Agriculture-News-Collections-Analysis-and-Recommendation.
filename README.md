@@ -1,5 +1,5 @@
 
-# Agriculture_News_Portal
+# Automated Agriculture News Collections, Analysis, and Recommendation. 
 
 In this project, we collect news articles from various news sites and classify articles to check between agriculture and non-agriculture. Also, we are checking duplicate articles in this process. Then subclassification have been done between seven categories of agriculture articles. And finally, based on content, recommendations like sentiment analysis of articles and time sensitivity analysis will be provided. A website to get all the agriculture news in one place so quiickly.
 
